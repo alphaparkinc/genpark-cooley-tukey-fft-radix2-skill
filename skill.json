@@ -1,0 +1,15 @@
+{
+  "name": "genpark-cooley-tukey-fft-radix2-skill",
+  "version": "1.0.0",
+  "description": "Cooley-Tukey Radix-2 Fast Fourier Transform (FFT) frequency analyzer converting discrete time-domain signals into spectral complex frequency bins.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "fft",
+    "cooley-tukey",
+    "signal-processing",
+    "spectral-analysis"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
